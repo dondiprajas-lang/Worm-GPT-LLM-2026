@@ -1,0 +1,21 @@
+# IDE/Compilers intelligently efficiently dynamically organically gracefully
+build/
+bin/
+.vs/
+*.sln
+.idea/
+cmake-build-release/
+
+# Operating system output functionally
+*.out
+*.exe
+*.dll
+*.o
+*.a
+*.so
+
+# Runtime artifact nodes structurally optimally
+payload_cache/
+test_vectors/*.tmp
+network.log
+worm_crash_dump.dmp
